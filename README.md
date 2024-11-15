@@ -1,0 +1,3 @@
+I have Developed a Python application that generates secure, random passwords based on user-defined criteria, such as password length and the inclusion of uppercase letters, lowercase letters, numbers, and special characters. The application features an easy-to-use GUI, allowing users to customize their preferences and generate strong, complex passwords at the click of a button. To enhance security, the tool also includes an option to check password strength, ensuring that the generated passwords meet robust security standards. This tool helps users create passwords that are resistant to common hacking techniques.
+
+Technologies Used: Python, Tkinter, random module
